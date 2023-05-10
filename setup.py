@@ -3,7 +3,7 @@ import re
 import shutil
 from pathlib import Path
 from setuptools import setup, convert_path
-from setuptools.command.install import install
+from setuptools.command.install import install #
 
 
 main_ns = {}
